@@ -1,5 +1,5 @@
 ### Hi there 👋 Wellerson Minozzo Here i'm backend Developer 
-# Development systems with Golang, NestJS, VueJS, EmberJS
+# Development systems with .Net, C#, GO, NestJS, VueJS, SQLSERVER
 
 <div> 
   
