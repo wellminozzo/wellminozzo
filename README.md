@@ -1,5 +1,5 @@
-### Hi there 👋 Wellerson Minozzo Here i'm backend Developer 
-# Development systems with .Net, C#, GO, NestJS, VueJS, SQLSERVER
+### Hi there 👋 Wellerson Minozzo Here i'm Full Stack Developer 
+# Development systems with .Net, C#, GO, .Net MAUI, VueJS, SQLSERVER, ASP
 
 <div> 
   
@@ -21,6 +21,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Rafa-CSHARP" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   
