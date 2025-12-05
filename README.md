@@ -1,5 +1,5 @@
 ### Hi there 👋 Wellerson Minozzo Here i'm Full Stack Developer 
-# Development systems with .Net, C#, GO, .Net MAUI, VueJS, SQLSERVER, ASP
+# Development systems with .Net, C#, GO, Blazor, .Net MAUI, VueJS, SQLSERVER, ASP.Net
 
 <div> 
   
